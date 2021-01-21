@@ -1,5 +1,7 @@
 # :computer: Raspi Influx-Grafana Dashboard
 
+![built-on-influx](https://www.influxdata.com/wp-content/uploads/built-on-influxdb-white.png)
+
 Out of many uses and purposes that InfluxDB is used for, Sensor data monitoring is an application that's easy to setup and use on most linux enabled devices. (except for a few port allocation :confused: issues when you have other services running with same default ports)
 
 Couple it with grafana for visualisations, you've got yourself a dashboard that has most of what you need to see.
